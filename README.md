@@ -1,16 +1,26 @@
-### Hi there 👋
+# Eai, eu sou o Lucas Generoso!
 
-<!--
-**LucasGeneroso/LucasGeneroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤵‍♂️ Sobre mim
+Sou um Engenheiro de Software trabalhando atualmente na @aziontech, com aproximadamente 5 anos de experiência na area. Eu curto muito programar e as principais tecnologias que gosto de utilizar são: Python, Django, GraphQL, SQLAlchemy, entre outras.
 
-Here are some ideas to get you started:
+## 🪓 Principais Habilidades
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/sqlalchemy-DA2A2A?style=for-the-badge&logo=sqlalchemy&logoColor=e535ab" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/graphql-E535AB?style=for-the-badge&logo=graphql&logoColor=fffff" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/kubernetes-3970E4?style=for-the-badge&logo=kubernetes&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/ci/cd-212C58?style=for-the-badge&logo=cicd&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Status do GitHub
+![Status](https://img.shields.io/github/followers/LucasGeneroso?style=social) ![Status](https://img.shields.io/github/stars/LucasGeneroso?style=social)
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=LucasGeneroso&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGeneroso&layout=compact"><p>
+
+## 📲 Redes Sociais
+- [LinkedIn](https://www.linkedin.com/in/lucas-generoso-531191193/)
+- [GitHub](https://github.com/LucasGeneroso)
