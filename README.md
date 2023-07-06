@@ -1,4 +1,4 @@
-# Eai, eu sou o Lucas Generoso!
+# Eai, eu sou o Lucas Generoso! 🧑‍💻
 Sou um Engenheiro de Software trabalhando atualmente na @aziontech, com aproximadamente 5 anos de experiência na area. Eu curto muito programar e as principais tecnologias que gosto de utilizar são: Python, Django, GraphQL, SQLAlchemy, entre outras.
 
 ## 🪓 Skills
