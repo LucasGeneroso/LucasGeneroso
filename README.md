@@ -1,9 +1,7 @@
 # Eai, eu sou o Lucas Generoso!
-
-## 🤵‍♂️ Sobre mim
 Sou um Engenheiro de Software trabalhando atualmente na @aziontech, com aproximadamente 5 anos de experiência na area. Eu curto muito programar e as principais tecnologias que gosto de utilizar são: Python, Django, GraphQL, SQLAlchemy, entre outras.
 
-## 🪓 Principais Habilidades
+## 🪓 Skills
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
@@ -14,7 +12,7 @@ Sou um Engenheiro de Software trabalhando atualmente na @aziontech, com aproxima
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 📊 Status do GitHub
+## 📊 GitHub Status
 ![Status](https://img.shields.io/github/followers/LucasGeneroso?style=social) ![Status](https://img.shields.io/github/stars/LucasGeneroso?style=social)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=LucasGeneroso&show_icons=true"><p>
