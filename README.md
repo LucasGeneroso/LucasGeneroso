@@ -15,7 +15,6 @@ Sou um Engenheiro de Software trabalhando atualmente na @aziontech, com aproxima
 ## 📊 GitHub Status
 ![Status](https://img.shields.io/github/followers/LucasGeneroso?style=social) ![Status](https://img.shields.io/github/stars/LucasGeneroso?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasGeneroso&color=green" alt="Profile views"/> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=LucasGeneroso&show_icons=true"><p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGeneroso&layout=compact"><p>
 
 ## 📲 Redes Sociais
