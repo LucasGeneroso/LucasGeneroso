@@ -7,6 +7,7 @@ Sou um Engenheiro de Software trabalhando atualmente na @aziontech, com aproxima
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/sqlalchemy-DA2A2A?style=for-the-badge&logo=sqlalchemy&logoColor=e535ab" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/graphql-E535AB?style=for-the-badge&logo=graphql&logoColor=fffff" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/uwsgi-7DB058?style=for-the-badge&logo=uWSGI&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/kubernetes-3970E4?style=for-the-badge&logo=kubernetes&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
