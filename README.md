@@ -1,5 +1,5 @@
-# Eai, eu sou o Lucas Generoso! 🧑‍💻
-Sou um Engenheiro de Software trabalhando atualmente na @aziontech, com aproximadamente 5 anos de experiência na area. Eu curto muito programar e as principais tecnologias que gosto de utilizar são: Python, Django, GraphQL, SQLAlchemy, entre outras.
+### Hi there 👋
+I am a Software Engineer with a passion for coding and approximately 5 years of experience in the field. Currently, I am honing my skills at @aziontech where I work on challenging and exciting projects. My technological forte lies in Python, Django, GraphQL, SQLAlchemy, among others. I thoroughly enjoy leveraging these technologies to create innovative solutions and drive business growth.
 
 ## 🪓 Skills
 <p>
@@ -18,6 +18,6 @@ Sou um Engenheiro de Software trabalhando atualmente na @aziontech, com aproxima
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGeneroso&layout=compact"><p>
 
-## 📲 Redes Sociais
+## 📲 Social media
 - [LinkedIn](https://www.linkedin.com/in/lucas-generoso-531191193/)
 - [GitHub](https://github.com/LucasGeneroso)
