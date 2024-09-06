@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineer with a passion for coding and approximately 5 years of experience in the field. Currently, I am honing my skills at @aziontech where I work on challenging and exciting projects. My technological forte lies in Python, Django, GraphQL, SQLAlchemy, among others. I thoroughly enjoy leveraging these technologies to create innovative solutions and drive business growth.
+I am a Senior Software Engineer with a passion for coding and approximately 5 years of experience in the field. Currently, I am honing my skills at @aziontech where I work on challenging and exciting projects. My technological forte lies in Python, Django, GraphQL, SQLAlchemy, among others. I thoroughly enjoy leveraging these technologies to create innovative solutions and drive business growth.
 
 ## 🪓 Skills
 <p>
