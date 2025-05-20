@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I'm **Lucas Generoso**, a Senior Software Engineer with around 6 years of experience, passionate about turning ideas into effective software solutions. Currently, I’m part of the team at [Azion Technologies](https://github.com/aziontech), where I work on challenging and innovative projects focused on edge computing and modern web infrastructure.
+I'm **Lucas Generoso**, a Senior Software Engineer with around 7 years of experience, passionate about turning ideas into effective software solutions. Currently, I’m part of the team at [Azion Technologies](https://github.com/aziontech), where I work on challenging and innovative projects focused on edge computing and modern web infrastructure.
 
 #### 🛠️ Technical Skills
 
